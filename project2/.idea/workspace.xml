@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d342ae7-e9ea-4d62-98b1-b4d514216240" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SVQITsyEBHM9E6MKoL00auuDcc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../pj2" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\project2\src" />
+      <recent name="E:\project2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project2" />
+      <recent name="E:\" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+      <recent name=".1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="project2" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d342ae7-e9ea-4d62-98b1-b4d514216240" name="Default Changelist" comment="" />
+      <created>1571646204469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571646204469</updated>
+      <workItem from="1571646210282" duration="1447000" />
+      <workItem from="1571661735901" duration="11000" />
+      <workItem from="1571737432665" duration="316000" />
+      <workItem from="1571737900472" duration="4947000" />
+      <workItem from="1571827139394" duration="12972000" />
+      <workItem from="1571973362957" duration="815000" />
+      <workItem from="1571988614459" duration="8242000" />
+      <workItem from="1572318956729" duration="9000" />
+      <workItem from="1572338123462" duration="640000" />
+      <workItem from="1572340060633" duration="3358000" />
+      <workItem from="1572348834933" duration="7083000" />
+      <workItem from="1572437135231" duration="6080000" />
+      <workItem from="1572443462980" duration="4247000" />
+      <workItem from="1572510339043" duration="1676000" />
+      <workItem from="1572576255063" duration="2672000" />
+      <workItem from="1572593063709" duration="8691000" />
+      <workItem from="1572604698387" duration="3672000" />
+      <workItem from="1572610271177" duration="5221000" />
+      <workItem from="1572928754767" duration="5789000" />
+      <workItem from="1572955665115" duration="8122000" />
+      <workItem from="1573218298039" duration="5670000" />
+      <workItem from="1573279527437" duration="3560000" />
+      <workItem from="1573296246601" duration="4566000" />
+      <workItem from="1573301773258" duration="45000" />
+      <workItem from="1573301899093" duration="2070000" />
+      <workItem from="1573304003212" duration="71000" />
+      <workItem from="1573304124493" duration="50000" />
+      <workItem from="1573304210819" duration="78000" />
+      <workItem from="1573304336484" duration="526000" />
+      <workItem from="1573304958585" duration="462000" />
+      <workItem from="1573305915853" duration="2034000" />
+      <workItem from="1573361700926" duration="3029000" />
+      <workItem from="1573375786508" duration="4593000" />
+      <workItem from="1573383117008" duration="6426000" />
+      <workItem from="1573405801840" duration="10935000" />
+      <workItem from="1573445698384" duration="292000" />
+      <workItem from="1573463904584" duration="2539000" />
+      <workItem from="1573481638270" duration="3338000" />
+      <workItem from="1573495987886" duration="7758000" />
+      <workItem from="1573523369041" duration="11710000" />
+      <workItem from="1573535916633" duration="21678000" />
+      <workItem from="1573568877528" duration="2739000" />
+      <workItem from="1573573049295" duration="10000" />
+      <workItem from="1575599445499" duration="1470000" />
+      <workItem from="1575724209717" duration="120000" />
+      <workItem from="1575728076347" duration="652000" />
+      <workItem from="1575896185020" duration="2628000" />
+      <workItem from="1576062298208" duration="628000" />
+      <workItem from="1576076654840" duration="612000" />
+      <workItem from="1576487173266" duration="697000" />
+      <workItem from="1576555488363" duration="608000" />
+      <workItem from="1577866370020" duration="1858000" />
+      <workItem from="1577877945971" duration="1941000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1577877955449">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1577877955449" />
+    <state width="1342" height="579" key="GridCell.Tab.0.bottom" timestamp="1577891139629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="579" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1577891139629" />
+    <state width="1342" height="579" key="GridCell.Tab.0.center" timestamp="1577891139629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="579" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1577891139629" />
+    <state width="1342" height="579" key="GridCell.Tab.0.left" timestamp="1577891139629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="579" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1577891139629" />
+    <state width="1342" height="579" key="GridCell.Tab.0.right" timestamp="1577891139629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1342" height="579" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1577891139629" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1577877946337">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1577877946337" />
+  </component>
+</project>
